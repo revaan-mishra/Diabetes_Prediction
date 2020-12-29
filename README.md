@@ -1,2 +1,2 @@
-# Diabetes_Prediction
+# Diabetes Prediction
 Diabetes Prediction With PySpark MLLIB
